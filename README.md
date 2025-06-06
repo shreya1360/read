@@ -1,2 +1,2 @@
 # read
-this is read repo
+this is read repo.
